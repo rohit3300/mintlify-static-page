@@ -210,6 +210,18 @@ button {
   gap: 168px;
 }
 
+.nav-logo {
+  height: 24px;
+}
+
+.nav-logo-img {
+    width: 104px;
+    border-radius: 4px;
+    animation: logo-swap linear both;
+    animation-timeline: scroll();
+    animation-range: 0px 500px;
+}
+
 .nav-links ul {
   display: flex;
   align-items: center;
