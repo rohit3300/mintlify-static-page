@@ -21,4 +21,4 @@ This project is a recreation of the Mintlify landing page, built using semantic 
 
 ## How to Run
 
-Simply open `index.html` in any modern web browser to view the page. No build step is required.
+Deployed site link: https://rohit3300.github.io/mintlify-static-page/
